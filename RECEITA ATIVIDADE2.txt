@@ -1,0 +1,8 @@
+Encontro remoto 2
+Objetivos de programação - Numero de Alunos
+
+
+1. Percorrer de 0 ate o numero de alunos;
+2. Se o numero for par, escreva "par" e o numero correspondente;
+3. Se o numero for impar, escreva "impar" e o numero correspondente;
+4. Se o numero for zero, escreva "zero" e o numero correspondente;
